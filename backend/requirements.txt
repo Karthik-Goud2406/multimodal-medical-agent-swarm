@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pillow==10.0.0
+requests==2.31.0
+python-multipart==0.0.6
+gradio==3.45.0
+# Optional (uncomment when integrating real models)
+# openai
+# pinecone-client
