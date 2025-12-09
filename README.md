@@ -1,4 +1,4 @@
-# Medical Agent Swarm — Interview-ready Demo
+# Medical Agent Swarm 
 
 **One-liner:** Modular multimodal medical agent pipeline (text, audio, image) designed to be production-ready and easily integrated with Whisper, Florence-2, Llama-3 and RAG.
 
