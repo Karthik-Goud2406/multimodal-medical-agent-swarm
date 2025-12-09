@@ -3,7 +3,7 @@
 **One-liner:** Modular multimodal medical agent pipeline (text, audio, image) designed to be production-ready and easily integrated with Whisper, Florence-2, Llama-3 and RAG.
 
 **Overview:**  
-This repo contains a compact, readable, and deterministic demo of a multimodal medical pipeline. The code is intentionally lightweight and safe for interviews (no API keys required). Each model client is implemented as a small module and can be replaced with real model API calls with minimal changes.
+This repo contains a compact, readable, and deterministic demo of a multimodal medical pipeline. The code is intentionally lightweight . Each model client is implemented as a small module and can be replaced with real model API calls with minimal changes.
 
 ## Features
 
